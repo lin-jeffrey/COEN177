@@ -1,4 +1,4 @@
-# COEN177
+# COEN-177
 
 Operating Systems
 
